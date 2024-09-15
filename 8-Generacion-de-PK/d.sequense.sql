@@ -15,3 +15,9 @@ CREATE TABLE
         user_id INTEGER DEFAULT nextval ('user_sequence') PRIMARY KEY,
         username VARCHAR
     )
+SELECT
+    *
+from
+    pg_extension;
+
+DROP EXTENSION "uuid-ossp"
