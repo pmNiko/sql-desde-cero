@@ -24,3 +24,7 @@ Excepciones
 Condiciones
 
 Es básicamente plpgsql lo que usaremos de lenguaje para crear estas funciones, lo bueno es que es muy similar a un lenguaje de programación tradicional, que se use de forma estructurado.
+
+#### Recursos
+
+[Fuente](https://www.postgresql.org/docs/current/sql-createfunction.html)
