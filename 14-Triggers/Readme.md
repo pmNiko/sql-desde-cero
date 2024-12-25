@@ -12,3 +12,6 @@ Pero idealmente queremos disparar ("trigger") una función (procedimiento almace
 Y básicamente es lo mismo que hemos hecho hasta el momento, pero añadiendo un poco de sintaxis adicional.
 
 También como un pequeño bonus, les enseñaré como instalar una extensión para encriptar y validar contraseñas directamente en Postgresql.
+
+[Fuente](https://www.postgresql.org/docs/current/pgcrypto.html)
+[Triggers](https://www.postgresql.org/docs/current/sql-createtrigger.html)
